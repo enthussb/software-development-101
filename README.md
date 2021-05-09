@@ -12,3 +12,7 @@ Dealing with dates & time in code
 * [Strategy Pattern in FP](https://dev.to/qgabe/functional-programming-design-patterns-part-1-strategy-pattern-4f92)
 * [Do the SOLID principles apply to FP?](https://dev.to/patferraggi/do-the-solid-principles-apply-to-functional-programming-56lm)
 * [Do we need design patterns in FP?](https://dev.to/patferraggi/do-you-need-design-patterns-in-functional-programming-370c)
+
+## SOLID Principles
+### Open-Closed Principle
+* [Simple Example](http://joelabrahamsson.com/a-simple-example-of-the-openclosed-principle/)
