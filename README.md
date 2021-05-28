@@ -16,3 +16,11 @@ Dealing with dates & time in code
 ## SOLID Principles
 ### Open-Closed Principle
 * [Simple Example](http://joelabrahamsson.com/a-simple-example-of-the-openclosed-principle/)
+
+
+## Books
+* The Clean Coder by Robert Martin
+* Clean code by Robert Martin
+* The Pragmatic Programmer by David Thomas & David Thomas
+* Head First Design Patterns by Elisabeth Freeman & Kathy Sierra
+* Building Microservices by Sam Newman
