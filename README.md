@@ -17,6 +17,10 @@ Dealing with dates & time in code
 ### Open-Closed Principle
 * [Simple Example](http://joelabrahamsson.com/a-simple-example-of-the-openclosed-principle/)
 
+## System Design
+### Understanding how to think about designing systems 
+* [Shopify Engineering - Deconstructing the monolith](https://shopify.engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
+* [Design Stamina Hypothesis](https://martinfowler.com/bliki/DesignStaminaHypothesis.html)
 
 ## Books
 * The Clean Coder by Robert Martin
