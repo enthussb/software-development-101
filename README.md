@@ -1,5 +1,5 @@
-# software-development-bible
-This repository contains all the resources/tips/tricks that will help you to become a professional &amp; pragmatic software developer.
+# Software-Development-101
+This repository contains all the resources/tips that will help you to become a professional &amp; pragmatic software developer.
 
 ## Concept Of Time
 Dealing with dates & time in code
