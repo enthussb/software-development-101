@@ -1,6 +1,10 @@
 # Software-Development-101
 This repository contains all the resources/tips that will help you to become a professional &amp; pragmatic software developer.
 
+## Programming Paradigms
+* [4 Programming Paradigms In 40 Minutes - OO, functional, logical, and procedural](https://youtu.be/cgVVZMfLjEI)
+
+
 ## Concept Of Time
 Dealing with dates & time in code
 * [Complexity of time data programming](https://www.mojotech.com/blog/the-complexity-of-time-data-programming/)
