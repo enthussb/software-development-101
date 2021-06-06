@@ -18,6 +18,7 @@ Dealing with dates & time in code
 * [Do we need design patterns in FP?](https://dev.to/patferraggi/do-you-need-design-patterns-in-functional-programming-370c)
 
 ## SOLID Principles
+[Breaking Dependencies: The SOLID Principles - Klaus Iglberger - CppCon 2020](https://youtu.be/Ntraj80qN2k)
 ### Open-Closed Principle
 * [Simple Example](http://joelabrahamsson.com/a-simple-example-of-the-openclosed-principle/)
 
